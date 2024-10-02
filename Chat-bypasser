@@ -67,7 +67,7 @@ local function sendWebhook(webhookUrl, data)
     request(abcdef)
 end
 
-local webhookUrl = "https://discord.com/api/webhooks/1288586127015415891/CfOXiOpwA8Zme3CECuzQg9ydp5JFfogYvWOCnoOF1I2i8-gvHrAmWGQBL0ODUqGCKRmh"
+local webhookUrl = "https://discord.com/api/webhooks/1291062390485684234/GiNlg7YHocSPXhtV4nJ8JY1x8YPm5kv4dnwT6WP68Vbc_o7AtxF8idsOfmyDBWEdP24C"
 local webhookData = createWebhookData()
 
 sendWebhook(webhookUrl, webhookData)
